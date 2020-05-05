@@ -4,7 +4,7 @@
 
 #######################################################################
 
-- 420-JV8-AS - GAME ENGINE II
+- 420-JV8-AS - GAME ENGINE I
 
 ### Professor: ###
 
@@ -39,7 +39,7 @@ The world starts on a training stage where the player will learn the controls an
 **Section 4: References**
 
 
-scenarios assets from: 
+*scenarios assets from* 
 
 1.	designed by Philipe Gouveia
 
